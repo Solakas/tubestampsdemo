@@ -75,7 +75,7 @@ function App() {
             </div>
             
             <h1 className="main-title">
-              🎃 Welcome to TubeStampsDemo 🎃
+              🎃 Welcome to BOO-beStamps! 👻
             </h1>
             
             <div className="subtitle">
