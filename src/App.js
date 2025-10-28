@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import confetti from 'canvas-confetti';
+import { app, analytics } from './firebase';
 
 function App() {
   const [showPumpkin, setShowPumpkin] = useState(false);
