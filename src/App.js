@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import './App.css';
 import confetti from 'canvas-confetti';
+// Firebase is initialized but not used in this component yet
+// eslint-disable-next-line no-unused-vars
+import { app, analytics } from './firebase';
 
 function App() {
   const [showPumpkin, setShowPumpkin] = useState(false);
